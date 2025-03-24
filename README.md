@@ -37,4 +37,4 @@ sudo kill -9 PID
 
 -------------------------------------------------------------------------------------
 ### N.B : Step 4 and Step 5 will be required every time you stop the service from running
-### Step 4 and step 5 Can be executed using sudo./emptyPort
+### Step 4 and step 5 Can be executed using sudo ./emptyPort
